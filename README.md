@@ -1,7 +1,7 @@
 # Video Cutter
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/yourusername/video-cutter/releases)
+[![Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/dimasjulianto/app-video-cutter/releases)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 A powerful desktop application for cutting and splitting videos using NVIDIA GPU acceleration. Designed for content creators, editors, and anyone needing to quickly split long videos into shorter segments.
