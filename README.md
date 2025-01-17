@@ -1,4 +1,4 @@
-# Video Cutter
+# Advanced Video Cutter App
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Windows](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/dimasjulianto/app-video-cutter/releases)
